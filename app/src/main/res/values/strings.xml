@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CGPA</string>
+    <string name="cgpa_calculator">CGPA CALCULATOR</string>
+    <string name="subject_1">subject 1</string>
+    <string name="grade">GRADE</string>
+    <string name="subject_2">subject 2</string>
+    <string name="subject_3">subject 3</string>
+    <string name="subject_4">subject 4</string>
+    <string name="subject_5">subject 5</string>
+    <string name="subject_6">subject 6</string>
+    <string name="subject_7">subject 7</string>
+    <string name="subject_8">subject 8</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="credits">CREDITS</string>
+    <string name="please_select_the_feature_you_want_to_use">please_select_the_feature_you_want_to_use</string>
+    <string name="cgpa_calculator1">cgpa_calculator</string>
+    <string name="cgpa_predictor">cgpa_predictor</string>
+    <string name="attendance_calculator">attendance_calculator</string>
+    <string name="Choose_The_Option">Choose_The_Option</string>
+</resources>
